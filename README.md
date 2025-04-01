@@ -1,5 +1,5 @@
 
 <img align="left" src="птен.png">
-<div align="center"> cheep cheep </div>
-<img align="right" width="256px" height="256px" src="shlimak.png">
+<div align="center"> NYA   </div>
+<img align="right" width="255px" height="240px" src="shlimak.png">
 
