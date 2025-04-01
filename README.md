@@ -1,5 +1,5 @@
 
 <img align="left" src="птен.png">
-cheep cheep
-<img align="right" src="shlimak.png">
+<div align="center"> cheep cheep </div>
+<img align="right" width="256px" height="256px" src="shlimak.png">
 
